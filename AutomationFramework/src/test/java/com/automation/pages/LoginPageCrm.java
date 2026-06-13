@@ -6,9 +6,8 @@ import org.openqa.selenium.support.FindBy;
 
 public class LoginPageCrm {
 	
-	WebDriver driver;
-	
-//	 locators
+	WebDriver driver;	
+
 	@FindBy(name="email")
 	WebElement username;
 	
