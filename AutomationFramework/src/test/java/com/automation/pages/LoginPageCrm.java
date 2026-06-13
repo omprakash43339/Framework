@@ -8,7 +8,7 @@ public class LoginPageCrm {
 	
 	WebDriver driver;
 	
-	
+//	 locators
 	@FindBy(name="email")
 	WebElement username;
 	
